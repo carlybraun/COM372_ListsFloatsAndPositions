@@ -1,0 +1,30 @@
+So I went through and did it last night on my own but forgot to record my observations
+
+FLOATS
+1. Aligned on the right
+2. Aligned on the left
+3. Div1 is aligned right and Div2 is aligned left
+4. Div 1 is in the upper left corner, Div2 is in the lower right corner
+5. I don't know...
+6. They move with the size of the browser
+
+8. "Good, good columns moving all over the place!"
+9. Got them equally sized but they were not aligned all together
+10. My columns are moving all over the place
+11. Okay they are offically all over the place
+
+LISTS
+1. Like I said earlier, I went through and played last night. When I made the changes to the "list-style" property,
+   the list bullets would either move in or out.
+2. Then when I messed with the display property, the bullets disappeared and made the list into one line
+
+POSITION
+1. Box stayed on the border
+2. Box moved in 100px
+3. Box moved out 100px, you can't even see some of the box
+4. Aligned on the left but room around the text, the padding
+5. Moved in 200px
+8. Whoa, the box went to the top left of the page
+9. and now it's in the top right of the page
+10. box moved in 100px worth from the right margin
+12. now located on the bottom on the page, still 100px from the right margin
